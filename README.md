@@ -1,16 +1,36 @@
-# superhero
+# SuperHero
 
-A new Flutter project.
+### Aplicação desenvovida em flutter como um app de busca dos super herois utilizando a api SuperHero API, 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Sobre a aplicação
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Uma aplicação desenvolvida utilizando o sistema de api SuperHero API, que fornece dados dos super herois de diversos filmes.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##Para utilizar
+### Acesse a api https://superheroapi.com/
+### Se cadastre na plataforma para obter sua APIKEY
+### Insira sua api em  final apikey = "<API>", dentro da pasta SuperHero/controllers/controller.dart
+### rode o comando flutter run 
+### O aplicativo sera executado no dispositivo ou no emulador em sua maquina.
+
+
+
+![RocketSim Recording - iPhone 12 Pro Max - 2021-07-26 10 56 46](https://user-images.githubusercontent.com/48225849/127006863-960fd712-8f9b-417a-bf62-11f505c7f0c5.gif)
+
+
+
+
+
+## Sobre o que foi trabalhado
+
+### A aplicacão aborda os principais assuntos para desenvolvimento Flutter, como:
+#### Linguagem Dart
+#### Provider
+#### MobX
+#### Gerenciamento de estados globais
+#### Request http
+
+
+
