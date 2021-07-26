@@ -14,7 +14,7 @@ abstract class ControllerBase with Store {
   bool loading = false;
 
   void getHeroes(String text) async {
-    const apikey = "<API>";
+    final apikey = "<API>";
     if (text == "") {
       listSuperHeros = [];
     } else {
