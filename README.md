@@ -1,3 +1,4 @@
+
 # SuperHero
 
 ### Aplicação desenvovida em flutter como um app de busca dos super herois utilizando a api SuperHero API, 
@@ -15,11 +16,11 @@
 ### rode o comando flutter run 
 ### O aplicativo sera executado no dispositivo ou no emulador em sua maquina.
 
+ 
+ ![SuperHero](https://user-images.githubusercontent.com/48225849/127011016-53c058cf-9efc-4f3d-8f59-5fec1db0b94c.gif)
 
 
 ![RocketSim Recording - iPhone 12 Pro Max - 2021-07-26 10 56 46](https://user-images.githubusercontent.com/48225849/127006863-960fd712-8f9b-417a-bf62-11f505c7f0c5.gif)
-
-
 
 
 
